@@ -7,13 +7,13 @@ Welcome! 👋 This repo is your ultimate survival kit or a quick reference for t
 
 - **📜 Lecture Notes**: Detailed notes from all the lectures, organized by subject.
 - **📊 PowerPoint Presentations**: All the PPTs that I created or used during my time here.
-- **📝 Extra Resources**: Cheat sheets, summaries, and extra reading materials that might come in handy.
+- **📝 Extra Resources**: Cheat sheets, Assignments, Labs, Tutorials, Projects, Summaries, and extra reading materials that might come in handy.
 
 ## 🚀 How to Use
 
 1. **Clone the Repo**: 
    ```bash
-   git clone https://github.com/your-username/university-notes-archive.git
+   git clone https://github.com/Aestivial/VITBhopal_Archive.git
    ```
 2. **Browse the Folders**: Each subject has its own folder with notes and PPTs organized by topic.
 3. **Stay Updated**: I'll keep adding new content, so make sure to pull the latest changes!

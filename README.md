@@ -1,7 +1,7 @@
 
 # 🎓 VIT Bhopal University Notes & PPTs Archive 📚
 
-Welcome, juniors! 👋 This repo is your ultimate survival kit for the university curriculum. Dive in to find all the notes, PPTs, and resources that helped me get through my classes. Whether you're cramming for exams, prepping for a presentation, or just trying to stay ahead, I've got you covered!
+Welcome! 👋 This repo is your ultimate survival kit or a quick reference for the university curriculum. Dive in to find all the notes, PPTs, and resources that helped me get through my classes. Whether you're cramming for exams, prepping for a presentation, or just trying to stay ahead, I've got you covered!
 
 ## 🗂️ What's Inside?
 
@@ -20,11 +20,11 @@ Welcome, juniors! 👋 This repo is your ultimate survival kit for the universit
 
 ## 📅 Subjects Covered
 
-- **📐 Mathematics**
-- **🧪 Chemistry**
-- **🔬 Physics**
-- **💻 Computer Science**
-- **🌍 Environmental Science**
+- **📐 Engineering Mathematics**
+- **🧪 Computational Chemistry**
+- **🔬 Engineering Physics**
+- **💻 Data Science and Algorithm**
+- **🌍 Introduction to Artificial Intelligence**
 - _...and many more!_
 
 ## 🤝 Contributing

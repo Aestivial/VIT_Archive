@@ -1,5 +1,5 @@
 
-# 🎓 VIT Bhopal University Notes & PPTs Archive 📚
+# 🎓 VIT University Notes & PPTs Archive 📚
 
 Welcome! 👋 This repo is your ultimate survival kit or a quick reference for the university curriculum. Dive in to find all the notes, PPTs, and resources that helped me get through my classes. Whether you're cramming for exams, prepping for a presentation, or just trying to stay ahead, I've got you covered!
 
@@ -13,7 +13,7 @@ Welcome! 👋 This repo is your ultimate survival kit or a quick reference for t
 
 1. **Clone the Repo**: 
    ```bash
-   git clone https://github.com/Aestivial/VITBhopal_Archive.git
+   git clone https://github.com/Aestivial/VIT_Archive.git
    ```
 2. **Browse the Folders**: Each subject has its own folder with notes and PPTs organized by topic.
 3. **Stay Updated**: I'll keep adding new content, so make sure to pull the latest changes!

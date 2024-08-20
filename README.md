@@ -1,7 +1,7 @@
 
 # 🎓 VIT University Notes & PPTs Archive 📚
 
-Welcome! 👋 This repo is your ultimate survival kit or a quick reference for the university curriculum. Dive in to find all the notes, PPTs, and resources that helped me get through my classes. Whether you're cramming for exams, prepping for a presentation, or just trying to stay ahead, I've got you covered!
+Welcome! 👋 This repo is your ultimate survival kit or a quick reference for the university curriculum. Dive in to find all the notes, PPTs, and resources that helped me get through my classes. Whether you're cramming for exams, prepping for a presentation, referring to some old course material, or just trying to stay ahead, I've got you covered!
 
 ## 🗂️ What's Inside?
 
@@ -31,7 +31,7 @@ Welcome! 👋 This repo is your ultimate survival kit or a quick reference for t
 
 Found a mistake or have something to add? Feel free to fork this repo, make your changes, and submit a pull request! Let's make this the best resource for everyone.
 
-## 🧠 Tips for Success
+## 🧠 Tips for fellow TIVians
 
 - **Start Early**: Don’t wait until the last minute to review these notes.
 - **Stay Organized**: Keep your own notes, and use these as a supplementary resource.
@@ -39,7 +39,7 @@ Found a mistake or have something to add? Feel free to fork this repo, make your
 
 ## ✨ Acknowledgements
 
-A big shoutout to me ofcourse and all the peers who contributed to these materials. This archive wouldn’t be possible without them!
+A big shoutout to me ofcourse and all the friends who contributed to these materials. This archive wouldn’t be possible otherwise.
 
 ---
 

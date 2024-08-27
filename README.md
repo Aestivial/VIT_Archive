@@ -29,7 +29,7 @@ Welcome! 👋 This repo is your ultimate survival kit or a quick reference for t
 
 ## 🤝 Contributing
 
-Found a mistake or have something to add? Feel free to fork this repo, make your changes, and submit a pull request! Let's make this the best resource for everyone.
+Found a mistake or have something to add? Feel free to fork this repo, make your changes, and submit a pull request! Let's make this the best resource for every VITian.
 
 ## 🧠 Tips for fellow TIVians
 

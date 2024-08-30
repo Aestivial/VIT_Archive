@@ -3,6 +3,8 @@
 
 Welcome! 👋 This repo is your ultimate survival kit or a quick reference for the university curriculum. Dive in to find all the notes, PPTs, and resources that helped me get through my classes. Whether you're cramming for exams, prepping for a presentation, referring to some old course material, or just trying to stay ahead, I've got you covered!
 
+---
+
 ## 🗂️ What's Inside?
 
 - **📜 Lecture Notes**: Detailed notes from all the lectures, organized by subject.

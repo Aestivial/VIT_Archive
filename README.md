@@ -1,3 +1,4 @@
+``Please open PR's to add your own stuff and contribute! I'd love to grow this and into a helpful digital library for more students.``
 
 # 🎓 VIT University Notes & PPTs Archive 📚
 
